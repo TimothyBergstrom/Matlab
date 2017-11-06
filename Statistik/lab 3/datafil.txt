@@ -1,0 +1,1118 @@
+Fil sparad
+uppgift_2
+
+realBeta =
+
+     2     3
+
+
+oneOutcomeFrequency =
+
+    0.7234
+
+
+betaEstimate =
+
+    2.1095
+    3.0210
+
+
+modelAccuracy =
+
+    0.8563
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.8563
+Random agreement (pe) = 0.6100
+Agreement due to true concordance (po-pe) = 0.2463
+Residual not random agreement (1-pe) = 0.3900
+Cohen's kappa = 0.6316
+kappa error = 0.0090
+kappa C.I. (alpha = 0.0500) = 0.6139     0.6492
+Maximum possible kappa, given the observed marginal frequencies = 0.8915
+k observed as proportion of maximum possible = 0.7084
+Substantial agreement
+Variance = 0.0001     z (k/sqrt(var)) = 62.0702    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.7143
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.7143
+Random agreement (pe) = 0.7143
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.2857
+Cohen's kappa = 0.0000
+kappa error = 0.0158
+kappa C.I. (alpha = 0.0500) = -0.0310     0.0310
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+     5     4
+
+
+oneOutcomeFrequency =
+
+    0.8766
+
+
+betaEstimate =
+
+    5.0374
+    3.9925
+
+
+modelAccuracy =
+
+    0.9365
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.9365
+Random agreement (pe) = 0.7939
+Agreement due to true concordance (po-pe) = 0.1426
+Residual not random agreement (1-pe) = 0.2061
+Cohen's kappa = 0.6920
+kappa error = 0.0118
+kappa C.I. (alpha = 0.0500) = 0.6688     0.7151
+Maximum possible kappa, given the observed marginal frequencies = 0.9006
+k observed as proportion of maximum possible = 0.7684
+Substantial agreement
+Variance = 0.0001     z (k/sqrt(var)) = 68.1919    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.8732
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.8732
+Random agreement (pe) = 0.8732
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.1268
+Cohen's kappa = 0.0000
+kappa error = 0.0262
+kappa C.I. (alpha = 0.0500) = -0.0514     0.0514
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+     1    10
+
+
+oneOutcomeFrequency =
+
+    0.5423
+
+
+betaEstimate =
+
+    1.0768
+    9.9074
+
+
+modelAccuracy =
+
+    0.9460
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.9460
+Random agreement (pe) = 0.5036
+Agreement due to true concordance (po-pe) = 0.4424
+Residual not random agreement (1-pe) = 0.4964
+Cohen's kappa = 0.8912
+kappa error = 0.0046
+kappa C.I. (alpha = 0.0500) = 0.8823     0.9001
+Maximum possible kappa, given the observed marginal frequencies = 0.9944
+k observed as proportion of maximum possible = 0.8963
+Perfect agreement
+Variance = 0.0001     z (k/sqrt(var)) = 89.1165    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.5413
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.5413
+Random agreement (pe) = 0.5413
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.4587
+Cohen's kappa = 0.0000
+kappa error = 0.0109
+kappa C.I. (alpha = 0.0500) = -0.0213     0.0213
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+    -1    10
+
+
+oneOutcomeFrequency =
+
+    0.4669
+
+
+betaEstimate =
+
+   -1.0516
+    9.9729
+
+
+modelAccuracy =
+
+    0.9473
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.9473
+Random agreement (pe) = 0.5030
+Agreement due to true concordance (po-pe) = 0.4443
+Residual not random agreement (1-pe) = 0.4970
+Cohen's kappa = 0.8940
+kappa error = 0.0045
+kappa C.I. (alpha = 0.0500) = 0.8852     0.9028
+Maximum possible kappa, given the observed marginal frequencies = 0.9998
+k observed as proportion of maximum possible = 0.8941
+Perfect agreement
+Variance = 0.0001     z (k/sqrt(var)) = 89.3970    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.4614
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.4614
+Random agreement (pe) = 0.4614
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.5386
+Cohen's kappa = 0.0000
+kappa error = 0.0093
+kappa C.I. (alpha = 0.0500) = -0.0181     0.0181
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+     1   100
+
+
+oneOutcomeFrequency =
+
+    0.5026
+
+
+betaEstimate =
+
+    0.9925
+  106.0382
+
+
+modelAccuracy =
+
+    0.9953
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.9953
+Random agreement (pe) = 0.5000
+Agreement due to true concordance (po-pe) = 0.4953
+Residual not random agreement (1-pe) = 0.5000
+Cohen's kappa = 0.9906
+kappa error = 0.0014
+kappa C.I. (alpha = 0.0500) = 0.9879     0.9933
+Maximum possible kappa, given the observed marginal frequencies = 0.9970
+k observed as proportion of maximum possible = 0.9936
+Perfect agreement
+Variance = 0.0001     z (k/sqrt(var)) = 99.0587    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.5021
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.5021
+Random agreement (pe) = 0.5021
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.4979
+Cohen's kappa = 0.0000
+kappa error = 0.0100
+kappa C.I. (alpha = 0.0500) = -0.0197     0.0197
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+     5     5
+
+
+oneOutcomeFrequency =
+
+    0.8297
+
+
+betaEstimate =
+
+    5.2796
+    5.2115
+
+
+modelAccuracy =
+
+    0.9354
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.9354
+Random agreement (pe) = 0.7230
+Agreement due to true concordance (po-pe) = 0.2124
+Residual not random agreement (1-pe) = 0.2770
+Cohen's kappa = 0.7668
+kappa error = 0.0089
+kappa C.I. (alpha = 0.0500) = 0.7494     0.7842
+Maximum possible kappa, given the observed marginal frequencies = 0.9379
+k observed as proportion of maximum possible = 0.8176
+Substantial agreement
+Variance = 0.0001     z (k/sqrt(var)) = 76.2422    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.8254
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.8254
+Random agreement (pe) = 0.8254
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.1746
+Cohen's kappa = 0.0000
+kappa error = 0.0217
+kappa C.I. (alpha = 0.0500) = -0.0426     0.0426
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+     2     3
+
+
+oneOutcomeFrequency =
+
+    0.7167
+
+
+betaEstimate =
+
+    2.0232
+    3.0581
+
+
+modelAccuracy =
+
+    0.8633
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.8633
+Random agreement (pe) = 0.6063
+Agreement due to true concordance (po-pe) = 0.2570
+Residual not random agreement (1-pe) = 0.3937
+Cohen's kappa = 0.6528
+kappa error = 0.0087
+kappa C.I. (alpha = 0.0500) = 0.6357     0.6699
+Maximum possible kappa, given the observed marginal frequencies = 0.9378
+k observed as proportion of maximum possible = 0.6961
+Substantial agreement
+Variance = 0.0001     z (k/sqrt(var)) = 64.9037    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.7186
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.7186
+Random agreement (pe) = 0.7186
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.2814
+Cohen's kappa = 0.0000
+kappa error = 0.0160
+kappa C.I. (alpha = 0.0500) = -0.0313     0.0313
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+     5     4
+
+
+oneOutcomeFrequency =
+
+    0.8703
+
+
+betaEstimate =
+
+    4.8294
+    3.8458
+
+
+modelAccuracy =
+
+    0.9358
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.9358
+Random agreement (pe) = 0.7884
+Agreement due to true concordance (po-pe) = 0.1474
+Residual not random agreement (1-pe) = 0.2116
+Cohen's kappa = 0.6966
+kappa error = 0.0116
+kappa C.I. (alpha = 0.0500) = 0.6739     0.7193
+Maximum possible kappa, given the observed marginal frequencies = 0.8960
+k observed as proportion of maximum possible = 0.7774
+Substantial agreement
+Variance = 0.0001     z (k/sqrt(var)) = 68.5561    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.8689
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.8689
+Random agreement (pe) = 0.8689
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.1311
+Cohen's kappa = 0.0000
+kappa error = 0.0257
+kappa C.I. (alpha = 0.0500) = -0.0505     0.0505
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+     1    10
+
+
+oneOutcomeFrequency =
+
+    0.5440
+
+
+betaEstimate =
+
+    0.9427
+   10.0727
+
+
+modelAccuracy =
+
+    0.9482
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.9482
+Random agreement (pe) = 0.5035
+Agreement due to true concordance (po-pe) = 0.4447
+Residual not random agreement (1-pe) = 0.4965
+Cohen's kappa = 0.8957
+kappa error = 0.0045
+kappa C.I. (alpha = 0.0500) = 0.8869     0.9044
+Maximum possible kappa, given the observed marginal frequencies = 0.9984
+k observed as proportion of maximum possible = 0.8971
+Perfect agreement
+Variance = 0.0001     z (k/sqrt(var)) = 89.5664    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.5415
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.5415
+Random agreement (pe) = 0.5415
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.4585
+Cohen's kappa = 0.0000
+kappa error = 0.0109
+kappa C.I. (alpha = 0.0500) = -0.0213     0.0213
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+    -1    10
+
+
+oneOutcomeFrequency =
+
+    0.4631
+
+
+betaEstimate =
+
+   -0.9657
+    9.5560
+
+
+modelAccuracy =
+
+    0.9462
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.9462
+Random agreement (pe) = 0.5042
+Agreement due to true concordance (po-pe) = 0.4420
+Residual not random agreement (1-pe) = 0.4958
+Cohen's kappa = 0.8915
+kappa error = 0.0046
+kappa C.I. (alpha = 0.0500) = 0.8826     0.9004
+Maximum possible kappa, given the observed marginal frequencies = 0.9976
+k observed as proportion of maximum possible = 0.8937
+Perfect agreement
+Variance = 0.0001     z (k/sqrt(var)) = 89.1482    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.4548
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.4548
+Random agreement (pe) = 0.4548
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.5452
+Cohen's kappa = 0.0000
+kappa error = 0.0091
+kappa C.I. (alpha = 0.0500) = -0.0179     0.0179
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+     1   100
+
+
+oneOutcomeFrequency =
+
+    0.5108
+
+
+betaEstimate =
+
+    0.9700
+   99.1250
+
+
+modelAccuracy =
+
+    0.9946
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.9946
+Random agreement (pe) = 0.5001
+Agreement due to true concordance (po-pe) = 0.4945
+Residual not random agreement (1-pe) = 0.4999
+Cohen's kappa = 0.9892
+kappa error = 0.0015
+kappa C.I. (alpha = 0.0500) = 0.9863     0.9921
+Maximum possible kappa, given the observed marginal frequencies = 1.0000
+k observed as proportion of maximum possible = 0.9892
+Perfect agreement
+Variance = 0.0001     z (k/sqrt(var)) = 98.9197    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.5079
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.5079
+Random agreement (pe) = 0.5079
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.4921
+Cohen's kappa = 0.0000
+kappa error = 0.0102
+kappa C.I. (alpha = 0.0500) = -0.0199     0.0199
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+     5     5
+
+
+oneOutcomeFrequency =
+
+    0.8285
+
+
+betaEstimate =
+
+    5.0738
+    5.1401
+
+
+modelAccuracy =
+
+    0.9321
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.9321
+Random agreement (pe) = 0.7127
+Agreement due to true concordance (po-pe) = 0.2194
+Residual not random agreement (1-pe) = 0.2873
+Cohen's kappa = 0.7637
+kappa error = 0.0088
+kappa C.I. (alpha = 0.0500) = 0.7465     0.7808
+Maximum possible kappa, given the observed marginal frequencies = 0.9704
+k observed as proportion of maximum possible = 0.7869
+Substantial agreement
+Variance = 0.0001     z (k/sqrt(var)) = 76.2651    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.8219
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.8219
+Random agreement (pe) = 0.8219
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.1781
+Cohen's kappa = 0.0000
+kappa error = 0.0215
+kappa C.I. (alpha = 0.0500) = -0.0421     0.0421
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+     2     3
+
+
+oneOutcomeFrequency =
+
+    0.7198
+
+
+betaEstimate =
+
+    1.9964
+    2.9738
+
+
+modelAccuracy =
+
+    0.8656
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.8656
+Random agreement (pe) = 0.6123
+Agreement due to true concordance (po-pe) = 0.2533
+Residual not random agreement (1-pe) = 0.3877
+Cohen's kappa = 0.6534
+kappa error = 0.0088
+kappa C.I. (alpha = 0.0500) = 0.6361     0.6706
+Maximum possible kappa, given the observed marginal frequencies = 0.9087
+k observed as proportion of maximum possible = 0.7190
+Substantial agreement
+Variance = 0.0001     z (k/sqrt(var)) = 64.5338    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.7199
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.7199
+Random agreement (pe) = 0.7199
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.2801
+Cohen's kappa = 0.0000
+kappa error = 0.0160
+kappa C.I. (alpha = 0.0500) = -0.0314     0.0314
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+     5     4
+
+
+oneOutcomeFrequency =
+
+    0.8648
+
+
+betaEstimate =
+
+    4.9136
+    4.0439
+
+
+modelAccuracy =
+
+    0.9321
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.9321
+Random agreement (pe) = 0.7923
+Agreement due to true concordance (po-pe) = 0.1398
+Residual not random agreement (1-pe) = 0.2077
+Cohen's kappa = 0.6730
+kappa error = 0.0121
+kappa C.I. (alpha = 0.0500) = 0.6493     0.6968
+Maximum possible kappa, given the observed marginal frequencies = 0.9071
+k observed as proportion of maximum possible = 0.7420
+Substantial agreement
+Variance = 0.0001     z (k/sqrt(var)) = 66.4453    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.8728
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.8728
+Random agreement (pe) = 0.8728
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.1272
+Cohen's kappa = 0.0000
+kappa error = 0.0262
+kappa C.I. (alpha = 0.0500) = -0.0513     0.0513
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+     1    10
+
+
+oneOutcomeFrequency =
+
+    0.5407
+
+
+betaEstimate =
+
+    0.9600
+   10.1564
+
+
+modelAccuracy =
+
+    0.9433
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.9433
+Random agreement (pe) = 0.5028
+Agreement due to true concordance (po-pe) = 0.4405
+Residual not random agreement (1-pe) = 0.4972
+Cohen's kappa = 0.8860
+kappa error = 0.0047
+kappa C.I. (alpha = 0.0500) = 0.8768     0.8951
+Maximum possible kappa, given the observed marginal frequencies = 0.9934
+k observed as proportion of maximum possible = 0.8919
+Perfect agreement
+Variance = 0.0001     z (k/sqrt(var)) = 88.5896    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.5393
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.5393
+Random agreement (pe) = 0.5393
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.4607
+Cohen's kappa = 0.0000
+kappa error = 0.0108
+kappa C.I. (alpha = 0.0500) = -0.0212     0.0212
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+    -1    10
+
+
+oneOutcomeFrequency =
+
+    0.4577
+
+
+betaEstimate =
+
+   -1.0238
+    9.9501
+
+
+modelAccuracy =
+
+    0.9449
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.9449
+Random agreement (pe) = 0.5023
+Agreement due to true concordance (po-pe) = 0.4426
+Residual not random agreement (1-pe) = 0.4977
+Cohen's kappa = 0.8893
+kappa error = 0.0046
+kappa C.I. (alpha = 0.0500) = 0.8803     0.8983
+Maximum possible kappa, given the observed marginal frequencies = 0.9978
+k observed as proportion of maximum possible = 0.8913
+Perfect agreement
+Variance = 0.0001     z (k/sqrt(var)) = 88.9295    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.4670
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.4670
+Random agreement (pe) = 0.4670
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.5330
+Cohen's kappa = 0.0000
+kappa error = 0.0094
+kappa C.I. (alpha = 0.0500) = -0.0183     0.0183
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+     1   100
+
+
+oneOutcomeFrequency =
+
+    0.5059
+
+
+betaEstimate =
+
+    1.0882
+   97.9852
+
+
+modelAccuracy =
+
+    0.9933
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.9933
+Random agreement (pe) = 0.5000
+Agreement due to true concordance (po-pe) = 0.4933
+Residual not random agreement (1-pe) = 0.5000
+Cohen's kappa = 0.9866
+kappa error = 0.0016
+kappa C.I. (alpha = 0.0500) = 0.9834     0.9898
+Maximum possible kappa, given the observed marginal frequencies = 0.9966
+k observed as proportion of maximum possible = 0.9900
+Perfect agreement
+Variance = 0.0001     z (k/sqrt(var)) = 98.6583    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.4983
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.4983
+Random agreement (pe) = 0.4983
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.5017
+Cohen's kappa = 0.0000
+kappa error = 0.0100
+kappa C.I. (alpha = 0.0500) = -0.0195     0.0195
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
+
+realBeta =
+
+     5     5
+
+
+oneOutcomeFrequency =
+
+    0.8306
+
+
+betaEstimate =
+
+    5.0807
+    5.0092
+
+
+modelAccuracy =
+
+    0.9314
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.9314
+Random agreement (pe) = 0.7278
+Agreement due to true concordance (po-pe) = 0.2036
+Residual not random agreement (1-pe) = 0.2722
+Cohen's kappa = 0.7480
+kappa error = 0.0093
+kappa C.I. (alpha = 0.0500) = 0.7298     0.7662
+Maximum possible kappa, given the observed marginal frequencies = 0.9118
+k observed as proportion of maximum possible = 0.8203
+Substantial agreement
+Variance = 0.0001     z (k/sqrt(var)) = 73.9412    p = 0.0000
+Reject null hypotesis: observed agreement is not accidental
+ 
+
+oneModelAccuracy =
+
+    0.8257
+
+UNWEIGHTED COHEN'S KAPPA
+--------------------------------------------------------------------------------
+Observed agreement (po) = 0.8257
+Random agreement (pe) = 0.8257
+Agreement due to true concordance (po-pe) = 0.0000
+Residual not random agreement (1-pe) = 0.1743
+Cohen's kappa = 0.0000
+kappa error = 0.0218
+kappa C.I. (alpha = 0.0500) = -0.0427     0.0427
+Maximum possible kappa, given the observed marginal frequencies = 0.0000
+k observed as proportion of maximum possible = NaN
+Slight agreement
+Variance = 0.0004     z (k/sqrt(var)) = 0.0000    p = 1.0000
+Accept null hypotesis: observed agreement is accidental
+ 
+_______________________________________________________
+ 
+ 
+ 
+ 
+ 
